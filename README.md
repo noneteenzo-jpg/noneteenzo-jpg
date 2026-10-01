@@ -76,27 +76,6 @@ Atualmente, meu principal foco está em **desenvolvimento web, sistemas interati
 
 ---
 
-# 🧬 PERFIL DO DESENVOLVEDOR
-
-<div align="center">
-+================================================================+
-|                        TERAK PROFILE                           |
-+================================================================+
-|                                                                |
-|  [01] NOME              :: Enzo                                |
-|  [02] CODINOME          :: TERAK                               |
-|  [03] LOCALIZACAO       :: Brasil                              |
-|  [04] ESPECIALIDADE     :: Desenvolvimento                     |
-|  [05] FOCO              :: Web & Sistemas                      |
-|  [06] PROJETO PRINCIPAL :: RPG Phantom Trupe                   |
-|  [07] STATUS            :: Desenvolvendo                       |
-|                                                                |
-+================================================================+
-
-</div>
-
----
-
 # 🌐 STACK TECNOLÓGICA
 
 <div align="center">
