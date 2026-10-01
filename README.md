@@ -188,40 +188,7 @@ Em vez de depender de várias ferramentas diferentes, o objetivo é reunir tudo 
        +-- Materiais
 
 ====================================================================
-```
 
----
-
-# 🧠 FILOSOFIA DE DESENVOLVIMENTO
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=00FF9D&center=true&vCenter=true&width=800&lines=IDEIAS+N%C3%83O+PRECISAM+SER+PERFEITAS+PARA+COME%C3%87AR;C%C3%93DIGO+%C3%89+UMA+FORMA+DE+CRIAR;CADA+ERRO+%C3%89+PARTE+DO+PROCESSO;EVOLU%C3%87%C3%83O+ACONTECE+PROJETO+AP%C3%93S+PROJETO" />
-
-</div>
-
-Acredito que programação não é apenas escrever código.
-
-É transformar uma ideia abstrata em algo que outras pessoas conseguem **usar, experimentar e aproveitar**.
-
-Por isso, gosto de projetos que tenham personalidade.
-
----
-
-# 🚀 PROJETOS & EXPERIMENTOS
-
-<div align="center">
-
-╔════════════════════════════════╦════════════════════════════╦═════════════════════════╗
-║ PROJETO                        ║ TIPO                       ║ STATUS                  ║
-╠════════════════════════════════╬════════════════════════════╬═════════════════════════╣
-║ 🕷️ RPG Phantom Trupe           ║ Plataforma Web / RPG       ║ 🟢 ATIVO               ║
-║ 🔧 Ferramentas pessoais        ║ Automação                  ║ 🟡 EVOLUINDO           ║
-║ 🎮 Projetos interativos        ║ Jogos / Experimentos       ║ 🟡 EM DESENVOLVIMENTO  ║
-║ 🧪 Protótipos                  ║ Experimentação             ║ 🔵 CONTÍNUO            ║
-╚════════════════════════════════╩════════════════════════════╩═════════════════════════╝
-
-</div>
 
 ---
 
