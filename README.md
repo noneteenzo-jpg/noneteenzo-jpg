@@ -155,7 +155,6 @@ Em vez de depender de várias ferramentas diferentes, o objetivo é reunir tudo 
 
 ### 🔮 Recursos
 
-```text
 ====================================================================
                          PHANTOM TRUPE
 ====================================================================
