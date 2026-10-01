@@ -260,36 +260,6 @@ Em vez de depender de várias ferramentas diferentes, o objetivo é reunir tudo 
 
 ---
 
-# 📡 TERMINAL
-
-bash
-$ whoami
-
-TERAK
-
-$ status
-
-ONLINE
-
-$ current_project
-
-RPG_PHANTOM_TRUPE
-
-$ primary_focus
-
-WEB_DEVELOPMENT
-
-$ objective
-
-BUILD_SOMETHING_UNIQUE
-
-$ next_command
-
-> CREATE
-
-
----
-
 # 🌌 ALÉM DO CÓDIGO
 
 Programação é uma das formas que encontrei de transformar criatividade em algo concreto.
