@@ -137,28 +137,6 @@ A ideia é transformar o site em um verdadeiro **hub digital para a campanha**, 
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TERAK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=7c3aed&text_color=cbd5e1&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TERAK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=cbd5e1" height="180"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TERAK&bg_color=0d1117&color=60a5fa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
