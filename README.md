@@ -13,7 +13,6 @@
 <br>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9d?style=for-the-badge&labelColor=050509"/>
-<img src="https://img.shields.io/badge/MODO-CYBERPUNK-ff00ff?style=for-the-badge&labelColor=050509"/>
 <img src="https://img.shields.io/badge/FOCO-DESENVOLVIMENTO-00d9ff?style=for-the-badge&labelColor=050509"/>
 <img src="https://img.shields.io/badge/PAÍS-BRASIL-7c3aed?style=for-the-badge&labelColor=050509"/>
 
