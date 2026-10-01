@@ -255,29 +255,7 @@ Em vez de depender de várias ferramentas diferentes, o objetivo é reunir tudo 
 
 </div>
 
----
 
-# 🕶️ MODO CYBERPUNK
-
-<div align="center">
-
-```text
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║                 ░▒▓ TERAK SYSTEM ▓▒░                          ║
-║                                                               ║
-║                 CONNECTION: ██████████ 100%                   ║
-║                 SYSTEM:     ONLINE                            ║
-║                 DEVELOPER:  TERAK                             ║
-║                 PROJECTS:   ACTIVE                            ║
-║                 CREATIVITY: ██████████                        ║
-║                                                               ║
-║                 [ BUILD ] [ CREATE ] [ EVOLVE ]               ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
