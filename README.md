@@ -203,15 +203,6 @@ Em vez de depender de várias ferramentas diferentes, o objetivo é reunir tudo 
 
 ---
 
-# 📈 ATIVIDADE
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TERAK&bg_color=050509&color=60a5fa&line=7c3aed&point=ec4899&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
 
 # 🐍 CONTRIBUIÇÕES
 
@@ -295,7 +286,7 @@ BUILD_SOMETHING_UNIQUE
 $ next_command
 
 > CREATE
-```
+
 
 ---
 
