@@ -153,54 +153,6 @@ O **RPG Phantom Trupe** nasceu da ideia de criar uma plataforma própria para ce
 
 Em vez de depender de várias ferramentas diferentes, o objetivo é reunir tudo em um único ambiente.
 
-### 🔮 Recursos
-
-====================================================================
-                         PHANTOM TRUPE
-====================================================================
-
-  [01] FICHAS DE PERSONAGEM
-       |-- Personagens
-       |-- Equipamentos
-       +-- Inventario
-
-  [02] SISTEMA DE MAPAS
-       |-- Grid
-       |-- Personagens
-       |-- NPCs
-       +-- Sistema de batalha
-
-  [03] MESTRE / ADMINISTRACAO
-       |-- Controle da campanha
-       |-- NPCs
-       |-- Sessoes
-       +-- Ferramentas do mestre
-
-  [04] COMUNICACAO
-       |-- Voz
-       |-- Video
-       +-- Compartilhamento de tela
-
-  [05] LORE & INFORMACOES
-       |-- Campanha
-       |-- Notas
-       +-- Materiais
-
-====================================================================
-
-
----
-
-# 📊 ESTATÍSTICAS DO GITHUB
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TERAK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050509&title_color=60A5FA&icon_color=7C3AED&text_color=CBD5E1"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TERAK&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050509&title_color=60A5FA&text_color=CBD5E1"/>
-
-</div>
-
 ---
 
 
